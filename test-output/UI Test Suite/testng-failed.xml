@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [UI Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="UI Testing(failed)">
+    <classes>
+      <class name="ui.SkipDemoTest">
+        <methods>
+          <include name="skipTest3"/>
+          <include name="skipTest2"/>
+        </methods>
+      </class> <!-- ui.SkipDemoTest -->
+      <class name="ui.VerifyTitleAndTextTest2">
+        <methods>
+          <include name="dataCleanup"/>
+          <include name="dataSetup"/>
+          <include name="titleTest"/>
+        </methods>
+      </class> <!-- ui.VerifyTitleAndTextTest2 -->
+      <class name="ui.SoftAssertTest">
+        <methods>
+          <include name="dataCleanup"/>
+          <include name="Test1"/>
+          <include name="dataSetup"/>
+        </methods>
+      </class> <!-- ui.SoftAssertTest -->
+    </classes>
+  </test> <!-- UI Testing(failed) -->
+</suite> <!-- Failed suite [UI Test Suite] -->

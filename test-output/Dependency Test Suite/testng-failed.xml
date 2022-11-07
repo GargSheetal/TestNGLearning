@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Dependency Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Dependency Test(failed)">
+    <classes>
+      <class name="ui.DependencyTestsDemo">
+        <methods>
+          <include name="UserSearch"/>
+          <include name="UserRegistration"/>
+        </methods>
+      </class> <!-- ui.DependencyTestsDemo -->
+    </classes>
+  </test> <!-- Dependency Test(failed) -->
+</suite> <!-- Failed suite [Dependency Test Suite] -->

@@ -1,0 +1,14 @@
+2022-10-05 00:28:48.905 [main] INFO  log4j.TestCaseWithLogs -  Chrome Browser is launched 
+2022-10-05 00:28:52.279 [main] INFO  log4j.TestCaseWithLogs - Volunteer Signup form is Opened
+2022-10-05 00:28:52.531 [main] INFO  log4j.TestCaseWithLogs - Screen is maximized
+2022-10-05 00:28:52.723 [main] INFO  log4j.TestCaseWithLogs - Name is entered
+2022-10-05 00:28:52.847 [main] INFO  log4j.TestCaseWithLogs - Email Address is entered
+2022-10-05 00:28:52.955 [main] INFO  log4j.TestCaseWithLogs - Phone number is entered
+2022-10-05 00:28:53.277 [main] INFO  log4j.TestCaseWithLogs - Selecting Best Time to Contact as Evening
+2022-10-05 00:31:03.378 [main] INFO  log4j.TestCaseWithLogs - Chrome Browser is launched
+2022-10-05 00:31:07.506 [main] INFO  log4j.TestCaseWithLogs - Volunteer Signup form is Opened
+2022-10-05 00:31:07.654 [main] INFO  log4j.TestCaseWithLogs - Screen is maximized
+2022-10-05 00:31:07.796 [main] INFO  log4j.TestCaseWithLogs - Name is entered
+2022-10-05 00:31:07.917 [main] INFO  log4j.TestCaseWithLogs - Email Address is entered
+2022-10-05 00:31:08.022 [main] INFO  log4j.TestCaseWithLogs - Phone number is entered
+2022-10-05 00:31:08.153 [main] INFO  log4j.TestCaseWithLogs - Selecting Best Time to Contact as Evening

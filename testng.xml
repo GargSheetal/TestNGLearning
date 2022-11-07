@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="UI Test Suite">
+  <test name="UI Testing">
+    <classes>
+      <class name="ui.SkipDemoTest"/>
+      <class name="ui.VerifyTitleAndTextTest2"/>
+      <class name="ui.LoginTest"/>
+      <class name="ui.DataProviderDemoTest"/>
+      <class name="ui.GroupsDemoTest"/>
+      <class name="ui.VerifyTitleTest"/>
+      <class name="ui.DataProviderDemoTest2"/>
+      <class name="ui.SoftAssertTest"/>
+    </classes>
+  </test> <!-- UI Testing -->
+</suite> <!-- UI Test Suite -->
